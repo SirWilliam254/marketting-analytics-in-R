@@ -1,0 +1,259 @@
+product_id,brand,company_location,review_date,country_of_bean_origin,cocoa_percent,rating,counts_of_ingredients,cocoa_butter,vanilla,organic,salt,sugar,sweetener,first_taste,second_taste,third_taste
+1,A. Morin,France,2014,Peru,70,4,4,1,0,1,0,1,0,delicate,hazelnut,brownie
+2,A. Morin,France,2014,Venezuela,70,3.75,4,1,0,1,0,1,0,astringent,nutty,chocolatey
+3,A. Morin,France,2014,Venezuela,70,3.5,4,1,0,1,0,1,0,nutty,mild choco,roasty
+4,A. Morin,France,2014,Venezuela,70,2.75,4,1,0,1,0,1,0,harsh,leather,earthy
+5,A. Morin,France,2015,Peru,70,3.5,4,1,0,1,0,1,0,grainy texture,cocoa,sweet
+6,A. Morin,France,2018,Peru,63,3.75,4,1,0,1,0,1,0,sweet,dairy,spice
+7,A. Morin,France,2018,Venezuela,70,3.5,4,1,0,1,0,1,0,alluring aroma,powdery,nutty
+8,Altus aka Cao Artisan,U.S.A,2016,Peru,60,3,3,1,0,0,0,1,0,dry,sweet,caramel
+9,Altus aka Cao Artisan,U.S.A,2016,Ecuador,60,2.75,3,1,0,0,0,1,0,sandy,nutty,earthy
+10,Altus aka Cao Artisan,U.S.A,2016,Peru,60,2.5,3,1,0,0,0,1,0,sandy,sweet,sour
+11,Altus aka Cao Artisan,U.S.A,2018,Dominican republic,70,3,3,1,0,0,0,1,0,sweet,coarse,nutty
+12,Ambrosia,Canada,2015,Peru,68,3.5,2,0,0,0,0,1,0,rich,sour,mild smoke
+13,Ambrosia,Canada,2015,Madagascar,66,3.25,2,0,0,0,0,1,0,fruity,sour,none
+14,Ambrosia,Canada,2015,Dominican republic,75,3.25,2,0,0,0,0,1,0,high roast,high astringnet,none
+15,Ambrosia,Canada,2015,Venezuela,70,3.25,2,0,0,0,0,1,0,sandy,roasty,nutty
+16,Amedei,Italy,2018,Blend,75,3.5,4,1,1,0,0,1,0,sweet,delicate,complex
+17,Amedei,Italy,2018,Madagascar,70,3,4,1,1,0,0,1,0,vanilla,mint,roasty
+18,Amedei,Italy,2018,Venezuela,70,3,4,1,1,0,0,1,0,vanilla,nuts,roasty
+19,Amedei,Italy,2018,Venezuela,70,3,4,1,1,0,0,1,0,nutty,mild roasty,vanilla
+20,Amedei,Italy,2019,Blend,70,2.75,3,1,0,0,0,1,0,nut,fatty,rubbery
+21,Arete,U.S.A,2015,Ecuador,70,3.75,2,0,0,0,0,1,0,spicy,cocoa,none
+22,Arete,U.S.A,2015,Peru,68,3.5,2,0,0,0,0,1,0,floral,nutty,rich cocoa
+23,Arete,U.S.A,2015,Dominican republic,70,3.5,2,0,0,0,0,1,0,spicy,brownie,nutty
+24,Arete,U.S.A,2015,Ecuador,75,3.5,3,1,0,0,0,1,0,intense,floral,bourbon
+25,Arete,U.S.A,2016,Peru,70,4,2,0,0,0,0,1,0,creamy,complex,balanced
+26,Arete,U.S.A,2016,Dominican republic,70,3.75,2,0,0,0,0,1,0,dark berry,chocolatey,none
+27,Arete,U.S.A,2016,Ecuador,70,3.25,3,1,0,0,0,1,0,sticky,floral,roasty
+28,Arete,U.S.A,2016,Ecuador,70,3.25,3,1,0,0,0,1,0,chewy,mild floral,none
+29,Arete,U.S.A,2017,Madagascar,70,3.5,3,1,0,0,0,1,0,sour fruit,none,none
+30,Arete,U.S.A,2017,Peru,70,3.5,3,1,0,0,0,1,0,dried fruit,fig,anise
+31,Bonnat,France,2014,Blend,65,3.75,3,1,0,0,0,1,0,complex,brownie,mint
+32,Bonnat,France,2014,Dominican republic,75,3.25,3,1,0,0,0,1,0,roasty,tobacco,earthy
+33,Bonnat,France,2018,Peru,75,4,3,1,0,0,0,1,0,oily,subtle,mild coffee
+34,Bonnat,France,2018,Blend,75,4,3,1,0,0,0,1,0,creamy,rich,complex
+35,Brasstown aka It's Chocolate,U.S.A,2014,Venezuela,70,4,3,1,0,0,0,1,0,intense,raisins,roasty
+36,Brasstown aka It's Chocolate,U.S.A,2015,Dominican republic,68,3.75,3,1,0,0,0,1,0,complex,brownie,lime
+37,Brasstown aka It's Chocolate,U.S.A,2016,Venezuela,70,3.5,3,1,0,0,0,1,0,nutty,slight hammy,rich
+38,Brasstown aka It's Chocolate,U.S.A,2017,Ecuador,75,3.75,3,1,0,0,0,1,0,sandy,floral,honey
+39,Brasstown aka It's Chocolate,U.S.A,2017,Dominican republic,70,3.25,3,1,0,0,0,1,0,earthy,cherries,none
+40,Brazen,U.S.A,2015,Dominican republic,80,3.25,3,1,0,0,0,1,0,bitter,dark berry,fatty
+41,Brazen,U.S.A,2015,Madagascar,60,3.25,3,1,0,0,0,1,0,citrus,sweet,cocoa
+42,Brazen,U.S.A,2015,Dominican republic,60,3,3,1,0,0,0,1,0,roasty,sweet,brownie
+43,Brazen,U.S.A,2015,Madagascar,80,2.75,3,1,0,0,0,1,0,bitter,tart,acidic
+44,Bright,Australia,2014,Dominican republic,70,3.5,3,1,0,0,0,1,0,spicy,black pepper,banana
+45,Bright,Australia,2014,Ecuador,72,3.5,3,1,0,0,0,1,0,floral,banana,none
+46,Bright,Australia,2014,Madagascar,72,3,3,1,0,0,0,1,0,sweet,mild molasses,bland
+47,Burnt Fork Bend,U.S.A,2014,Ecuador,72,3.5,3,1,0,0,0,1,0,floral,mild citrus,orange
+48,Burnt Fork Bend,U.S.A,2014,Blend,72,3.25,3,1,0,0,0,1,0,coffee,high roast,spicy
+49,Burnt Fork Bend,U.S.A,2014,Ecuador,60,2.5,3,1,0,0,0,1,0,sweet,sour dairy,none
+50,Cacao de Origen,Venezuela,2014,Venezuela,70,3.75,2,0,0,0,0,1,0,light color,dirty,musty
+51,Cacao de Origen,Venezuela,2014,Venezuela,75,3.5,2,0,0,0,0,1,0,fruity,nutty,brownie
+52,Cacao de Origen,Venezuela,2014,Venezuela,74,3.25,2,0,0,0,0,1,0,bright fruit,strawberry,none
+53,Cacao de Origen,Venezuela,2014,Venezuela,75,2.5,2,0,0,0,0,1,0,nutty,intense,leathery
+54,Cacao de Origen,Venezuela,2015,Venezuela,77,3.5,2,0,0,0,0,1,0,intense,earthy,fuel
+55,Cacao de Origen,Venezuela,2015,Venezuela,74,3.25,2,0,0,0,0,1,0,assertive,fruity,acidic
+56,Cacao de Origen,Venezuela,2015,Venezuela,75,3.25,2,0,0,0,0,1,0,intense,black licorice,nutty
+57,Cacao de Origen,Venezuela,2018,Venezuela,75,2.75,2,0,0,0,0,1,0,spicy,nutty,ends sour
+58,Cacao de Origen,Venezuela,2019,Venezuela,70,3,2,0,0,0,0,1,0,sandy,chalky,earthy
+59,Cacao de Origen,Venezuela,2019,Venezuela,75,2.5,2,0,0,0,0,1,0,raspberry,dirty,sour
+60,Castronovo,U.S.A,2017,Venezuela,70,3.25,2,0,0,0,0,1,0,sandy,mild intensity,fruit
+61,Castronovo,U.S.A,2014,Dominican republic,70,2.75,3,1,0,0,0,1,0,soapy,earthy,none
+62,Castronovo,U.S.A,2015,Dominican republic,70,3.75,3,1,0,0,0,1,0,med roast,grassy,dried fruit
+63,Castronovo,U.S.A,2015,Venezuela,72,3.5,3,1,0,0,0,1,0,nutty,floral,roasty
+64,Chocolarder,U.K.,2015,Peru,65,2.75,2,0,0,0,0,1,0,roasty,sour milk,off note
+65,Chocolarder,U.K.,2015,Peru,65,2.5,2,0,0,0,0,1,0,flat,floral,medicinal
+66,Chocolarder,U.K.,2015,Dominican republic,80,2.5,2,0,0,0,0,1,0,flat,metallic,floral
+67,Chocolarder,U.K.,2019,Madagascar,74,3,2,0,0,0,0,1,0,spicy,earthy off notes,none
+68,Chocolate Con Amor,U.S.A,2016,Ecuador,70,3.25,2,0,0,0,0,1,0,sticky,coconut,sour
+69,Chocolate Con Amor,U.S.A,2016,Dominican republic,60,3,2,0,0,0,0,1,0,molasses,tart,floral
+70,Chocolate Con Amor,U.S.A,2016,Dominican republic,75,3,2,0,0,0,0,1,0,gritty,sweet,molasses
+71,Chocolate Con Amor,U.S.A,2016,Venezuela,80,3,2,0,0,0,0,1,0,sandy,rich,roasty
+72,Chocolate Makers,Netherlands,2015,Peru,80,3.75,3,1,0,0,0,1,0,nuts,coffee,peanut butter
+73,Chocolate Makers,Netherlands,2015,Dominican republic,75,3.25,3,1,0,0,0,1,0,earthy,coffee,mild
+74,Domori,Italy,2015,Ecuador,70,3.75,2,0,0,0,0,1,0,creamy,coffee,caramel
+75,Domori,Italy,2015,Venezuela,70,3.75,2,0,0,0,0,1,0,sticky,nutty,none
+76,Dormouse,U.K.,2018,Peru,80,3.5,2,0,0,0,0,0,1,nutty,strawberry,creamy
+77,Dormouse,U.K.,2015,Madagascar,77,2.75,3,1,0,0,0,1,0,fruity,molasses,none
+78,Dormouse,U.K.,2015,Venezuela,70,2.5,3,1,0,0,0,1,0,burnt rubber,molasses,none
+79,Durci,U.S.A,2015,Ecuador,70,4,3,1,0,0,0,1,0,blackberry and cinnamon,none,none
+80,Durci,U.S.A,2015,Peru,70,3.5,3,1,0,0,0,1,0,sandy,orange,butterscotch
+81,Durci,U.S.A,2015,Venezuela,70,3.5,3,1,0,0,0,1,0,fatty,roasty,intense brownie
+82,Durci,U.S.A,2015,Dominican republic,70,3.25,3,1,0,0,0,1,0,dates,acidic,rich cocoa
+83,Durci,U.S.A,2015,Venezuela,70,3.25,3,1,0,0,0,1,0,cherry,earthy,tobacco
+84,Durci,U.S.A,2018,Peru,70,4,3,1,0,0,0,1,0,smoth,dense,grape
+85,East Van Roasters,Canada,2014,Dominican republic,70,3.75,3,1,0,0,0,1,0,spicy,cocoa,none
+86,East Van Roasters,Canada,2014,Madagascar,70,3.5,3,1,0,0,0,1,0,ultra fruity,none,none
+87,East Van Roasters,Canada,2014,Peru,70,3.25,3,1,0,0,0,1,0,waxy,spicy,tobacco
+88,Fossa,Singapore,2016,Ecuador,75,3.5,2,0,0,0,0,1,0,hammy,large grits,none
+89,Fossa,Singapore,2016,Madagascar,70,2.75,2,0,0,0,0,1,0,gummy,sandy,complex
+90,Fossa,Singapore,2018,Dominican republic,72,2.75,2,0,0,0,0,1,0,nuts,sour milk,none
+91,Fossa,Singapore,2019,Madagascar,70,3.5,2,0,0,0,0,1,0,sandy,powdery,late sour
+92,Franceschi,Venezuela,2018,Venezuela,72,3.5,2,0,0,0,0,1,0,fruit,smokey,mocha
+93,Franceschi,Venezuela,2018,Venezuela,85,3,2,0,0,0,0,1,0,dirty,roasty,acidic
+94,Franceschi,Venezuela,2014,Venezuela,70,3.75,3,1,0,0,0,1,0,caramel,dairy,none
+95,Franceschi,Venezuela,2014,Venezuela,70,3.5,3,1,0,0,0,1,0,intense,tobacco,nuts
+96,Franceschi,Venezuela,2018,Venezuela,70,3.25,3,1,0,0,0,1,0,dried fruit,large grits,none
+97,Franceschi,Venezuela,2018,Venezuela,70,3,3,1,0,0,0,1,0,large grits,none,none
+98,Franceschi,Venezuela,2018,Venezuela,60,2.5,4,1,0,1,0,1,0,large grits,sweet,none
+99,Fresco,U.S.A,2014,Peru,70,3.5,3,1,0,0,0,1,0,orange,mellow but flavorful,none
+100,Fresco,U.S.A,2014,Peru,70,3.5,3,1,0,0,0,1,0,fruity,floral,caramel
+101,Fresco,U.S.A,2014,Peru,70,3.5,3,1,0,0,0,1,0,slow develop,caramel,roasty
+102,Fresco,U.S.A,2014,Peru,70,3,3,1,0,0,0,1,0,light color,leathery flavor,none
+103,Fresco,U.S.A,2018,Venezuela,72,3.5,3,1,0,0,0,1,0,complex,nuts,spice
+104,Fresco,U.S.A,2018,Venezuela,72,3.25,3,1,0,0,0,1,0,roasty,mild fatty,none
+105,Georgia Ramon,Germany,2015,Dominican republic,70,3.5,4,1,0,1,0,1,0,sticky,spice,roasty
+106,Georgia Ramon,Germany,2015,Dominican republic,80,3.5,4,1,0,1,0,1,0,deep cocoa,fruit,spice
+107,Georgia Ramon,Germany,2015,Madagascar,75,3.5,4,1,0,1,0,1,0,red fruit,tart,fat
+108,Georgia Ramon,Germany,2015,Madagascar,65,3.25,4,1,0,1,0,1,0,sandy,sweet,candy tart
+109,Georgia Ramon,Germany,2017,Venezuela,75,3.5,3,1,0,0,0,1,0,fatty,creamy,roasty
+110,Georgia Ramon,Germany,2019,Venezuela,75,2.75,3,1,0,0,0,1,0,earthy,roasty,strong vanilla
+111,Habitual,Canada,2014,Blend,70,3.5,3,1,0,0,0,1,0,sandy,intense,cherry
+112,Habitual,Canada,2014,Dominican republic,75,3.25,3,1,0,0,0,1,0,chalky,berry,cocoa
+113,Habitual,Canada,2014,Blend,70,3,3,1,0,0,0,1,0,fatty,nutty,earthy
+114,Habitual,Canada,2014,Blend,80,3,3,1,0,0,0,1,0,sandy,roasted vegetal,none
+115,Habitual,Canada,2014,Blend,74,2.75,3,1,0,0,0,1,0,XL nibs,sour,cardboard
+116,Habitual,Canada,2014,Blend,65,2.75,3,1,0,0,0,1,0,molasses,sweet,long
+117,hexx,U.S.A,2015,Ecuador,73,3.25,2,0,0,0,0,0,1,rich,coffee,cherry
+118,hexx,U.S.A,2015,Peru,70,3.25,2,0,0,0,0,0,1,sour grapes,pungent,ashey
+119,hexx,U.S.A,2015,Madagascar,74,3,2,0,0,0,0,0,1,powdery,vanilla,artificial
+120,hexx,U.S.A,2015,Venezuela,70,3,2,0,0,0,0,0,1,floral,palm,sour
+121,hexx,U.S.A,2018,Dominican republic,71,3.5,2,0,0,0,0,0,1,sandy,tart,tangy
+122,hexx,U.S.A,2018,Madagascar,74,2.75,2,0,0,0,0,0,1,intense,palm,earthy
+123,hexx,U.S.A,2018,Ecuador,73,2.5,2,0,0,0,0,0,1,fruity,tannic,coconut
+124,hexx,U.S.A,2018,Peru,70,2.25,2,0,0,0,0,0,1,lemon,late sour & molasses,none
+125,Hogarth,New zealand,2016,Peru,66,3.5,3,1,0,0,0,1,0,mild caramel,honey,none
+126,Hogarth,New zealand,2016,Dominican republic,75,3.25,3,1,0,0,0,1,0,intense,bitter,coffee
+127,Hogarth,New zealand,2016,Madagascar,70,2.75,3,1,0,0,0,1,0,sour,earthy,none
+128,Hogarth,New zealand,2016,Venezuela,72,2.75,3,1,0,0,0,1,0,nutty,off notes,none
+129,Hogarth,New zealand,2019,Ecuador,85,3.5,3,1,0,0,0,1,0,butterscotch,burnt cinnamon,none
+130,Hogarth,New zealand,2019,Venezuela,68,3.25,3,1,0,0,0,1,0,high acid,sweet,nut
+131,Holy Cacao,Israel,2015,Ecuador,70,3.5,4,1,0,1,0,1,0,floral,roasty,coffee
+132,Holy Cacao,Israel,2015,Madagascar,70,3.5,4,1,0,1,0,1,0,rich cocoa,fatty,none
+133,Holy Cacao,Israel,2015,Venezuela,70,3.5,4,1,0,1,0,1,0,muted,fatty,nutty
+134,Holy Cacao,Israel,2016,Peru,70,2.75,4,1,0,1,0,1,0,sour,raw,green
+135,Johnny Iuzzini,U.S.A,2017,Ecuador,78,3.75,4,1,0,1,0,1,0,full bodied,floral,none
+136,Johnny Iuzzini,U.S.A,2017,Venezuela,72,3.5,3,1,0,0,0,1,0,dairy,nutty,butterscotch
+137,Johnny Iuzzini,U.S.A,2017,Ecuador,70,3.5,4,1,0,1,0,1,0,floral,bourbon,salt
+138,Johnny Iuzzini,U.S.A,2017,Madagascar,68,3.5,5,1,1,1,0,1,0,vanilla,gateway,none
+139,Johnny Iuzzini,U.S.A,2017,Peru,75,3,4,1,0,1,0,1,0,floral,tobacco,candied
+140,Kto,U.S.A,2014,Peru,72,2.5,2,0,0,0,0,1,0,roasty,nutty,none
+141,Kto,U.S.A,2014,Madagascar,72,3.25,3,1,0,0,0,1,0,strawberry,intense,sour
+142,Kto,U.S.A,2014,Dominican republic,72,3.25,3,1,0,0,0,1,0,spicy,molasses,earthy
+143,Kto,U.S.A,2014,Dominican republic,72,3.25,3,1,0,0,0,1,0,earthy,fatty,tea
+144,Kto,U.S.A,2014,Venezuela,72,2.75,3,1,0,0,0,1,0,nutty,pungent,sour
+145,Kyya,U.S.A,2014,Dominican republic,72.5,3,5,1,1,0,1,1,0,vanilla,candy-like,sour milk
+146,Kyya,U.S.A,2014,Madagascar,72.5,3,5,1,1,0,1,1,0,mild vanilla and mild fruit,none,none
+147,Kyya,U.S.A,2014,Ecuador,72.5,2.5,5,1,1,0,1,1,0,intense,bourbon,vanilla
+148,Laia aka Chat-Noir,France,2014,Blend,68,2.75,4,1,0,1,0,1,0,nutty,woody,leathery
+149,Laia aka Chat-Noir,France,2015,Peru,75,3.25,4,1,0,1,0,1,0,sandy,fatty,roasty
+150,Laia aka Chat-Noir,France,2015,Madagascar,75,2.75,4,1,0,1,0,1,0,roasty,sour,cardboard
+151,Letterpress,U.S.A,2014,Peru,70,3.5,2,0,0,0,0,1,0,rich cocoa,mild fruit & nut,none
+152,Letterpress,U.S.A,2015,Dominican republic,70,3.25,2,0,0,0,0,1,0,intense,sticky,cocoa
+153,Letterpress,U.S.A,2017,Peru,70,4,3,1,0,0,0,1,0,mild,licorice,coffee
+154,Mana,U.S.A,2015,Ecuador,74,2.5,2,0,0,0,0,1,0,potting soil,none,none
+155,Mana,U.S.A,2014,Venezuela,74,2.75,3,1,0,0,0,1,0,nutty,green,none
+156,Mana,U.S.A,2014,Peru,74,2.5,3,1,0,0,0,1,0,rubber,off medicinal,none
+157,Map Chocolate,U.S.A,2015,Dominican republic,70,3.5,3,1,0,0,0,1,0,fruity,tangy,cocoa
+158,Map Chocolate,U.S.A,2015,Peru,62,3.5,3,1,0,0,0,1,0,delicate,caramel,peanut
+159,Map Chocolate,U.S.A,2015,Ecuador,70,3.5,3,1,0,0,0,1,0,coarse,floral,rum
+160,Map Chocolate,U.S.A,2015,Peru,68,3.5,3,1,0,0,0,1,0,lemon,spicy,cocoa
+161,Map Chocolate,U.S.A,2018,Dominican republic,72,3.5,3,1,0,0,0,1,0,complex,creamy,cherry
+162,Map Chocolate,U.S.A,2018,Blend,72,3,3,1,0,0,0,1,0,off notes,rubbery,hammy
+163,Maverick,U.S.A,2014,Dominican republic,70,3.25,2,0,0,0,0,1,0,gritty,overly tart,sour
+164,Maverick,U.S.A,2014,Peru,82,3.25,2,0,0,0,0,1,0,tart,deep choco,none
+165,Maverick,U.S.A,2014,Peru,63,3.5,3,1,0,0,0,1,0,sweet,cherry,cream
+166,Maverick,U.S.A,2020,Madagascar,65,3.25,3,1,0,0,0,1,0,sweet edge,sour fruit,none
+167,Mike & Becky,Belgium,2018,Peru,70,3.25,3,1,0,0,0,1,0,complex,true to origin,none
+168,Mike & Becky,Belgium,2018,Dominican republic,70,3,3,1,0,0,0,1,0,fatty,simple,none
+169,Mike & Becky,Belgium,2019,Ecuador,70,3,3,1,0,0,0,1,0,sandy,nutmeg,astringent
+170,Milton,Japan,2018,Peru,70,3.75,2,0,0,0,0,1,0,smooth,coconut,cocoa
+171,Milton,Japan,2018,Madagascar,70,3.5,2,0,0,0,0,1,0,creamy,coconut,cocoa
+172,Naive,Lithuania,2014,Venezuela,70,3,4,1,0,1,0,1,0,coarse,sweet,none
+173,Naive,Lithuania,2014,Venezuela,75,2.75,4,1,0,1,0,1,0,coarse,sweet,minty
+174,Nibble,U.S.A,2015,Madagascar,72,3,2,0,0,0,0,1,0,dry,earthy,atypical
+175,Nibble,U.S.A,2015,Peru,72,3,2,0,0,0,0,1,0,sweet,molasses,gritty
+176,Nibble,U.S.A,2015,Dominican republic,72,2.75,2,0,0,0,0,1,0,grassy,dirt,mild spice
+177,Nibble,U.S.A,2015,Venezuela,72,2.25,2,0,0,0,0,1,0,intense,pungent,sour fruit
+178,Nuance,U.S.A,2015,Dominican republic,70,3.75,2,0,0,0,0,1,0,molasses,nut,roasty
+179,Nuance,U.S.A,2015,Madagascar,70,3.5,2,0,0,0,0,1,0,notes from sugar,none,none
+180,Nuance,U.S.A,2015,Venezuela,70,3,2,0,0,0,0,1,0,roasty,mild orange,none
+181,Nuance,U.S.A,2015,Ecuador,70,2.75,2,0,0,0,0,1,0,nutty,high roast,spice
+182,Pacari,Ecuador,2014,Ecuador,70,4,4,1,0,1,0,1,0,creamy,spicy,cocoa
+183,Pacari,Ecuador,2014,Ecuador,70,3.75,4,1,0,1,0,1,0,creamy,green fruit,candied
+184,Pacari,Ecuador,2014,Ecuador,70,3.5,4,1,0,1,0,1,0,savory,smokey,none
+185,Pacari,Ecuador,2014,Ecuador,70,3.25,4,1,0,1,0,1,0,floral,green,tannic
+186,Palette de Bine,Canada,2014,Madagascar,78,3.75,2,0,0,0,0,1,0,intense grapes,sweet cocoa,none
+187,Palette de Bine,Canada,2014,Blend,75,3.5,2,0,0,0,0,1,0,intense,bitter,sour
+188,Palette de Bine,Canada,2014,Ecuador,75,2.75,2,0,0,0,0,1,0,smoke,sour fruit,hammy
+189,Palette de Bine,Canada,2017,Peru,72,2.75,2,0,0,0,0,1,0,vinegar,sour,none
+190,Palette de Bine,Canada,2017,Dominican republic,75,2.75,2,0,0,0,0,1,0,earthy,nutty,black pepper
+191,Palette de Bine,Canada,2019,Peru,70,3.5,2,0,0,0,0,1,0,cocoa,melon,dairy
+192,Pangea,Spain,2019,Peru,71,3.5,2,0,0,0,0,1,0,slow,sweet,spicy
+193,Pangea,Spain,2019,Madagascar,76,3.25,2,0,0,0,0,1,0,strawberry,savory,none
+194,Pangea,Spain,2019,Dominican republic,76,3.25,2,0,0,0,0,1,0,fruity,off rubber,none
+195,Pralus,France,2015,Peru,75,3.25,3,1,0,0,0,1,0,subdued,floral,nutty
+196,Pralus,France,2019,Ecuador,75,3.5,4,1,0,1,0,1,0,dried fruit,floral,none
+197,Pralus,France,2019,Venezuela,75,3,4,1,0,1,0,1,0,roasty,black licorice,rubbery
+198,Pralus,France,2019,Madagascar,75,3,4,1,0,1,0,1,0,high acidity,roasty,sour
+199,Pump Street Bakery,U.K.,2014,Madagascar,72,3.25,3,1,0,0,0,1,0,long,mellow,buttery
+200,Pump Street Bakery,U.K.,2014,Ecuador,75,3,3,1,0,0,0,1,0,perfume,roasted caramel,none
+201,Pump Street Bakery,U.K.,2014,Venezuela,75,2.75,3,1,0,0,0,1,0,nutty,fuel,intense
+202,Pump Street Bakery,U.K.,2014,Ecuador,85,2.75,3,1,0,0,0,1,0,floral,slightly burnt,intense
+203,Pump Street Bakery,U.K.,2015,Madagascar,74,3.5,3,1,0,0,0,1,0,dairy,butterscotch,caramel
+204,Pump Street Bakery,U.K.,2016,Ecuador,77,3.5,3,1,0,0,0,1,0,floral,grain,deep cocoa
+205,Pura Delizia,Italy,2017,Dominican republic,65,3.75,4,1,0,1,0,1,0,peanut,soy,sunflower
+206,Pura Delizia,Italy,2017,Ecuador,73,3.25,4,1,0,1,0,1,0,few grits,strong floral,none
+207,Qantu,Canada,2018,Peru,70,3,3,1,0,0,0,1,0,pungent,grapes,none
+208,Qantu,Canada,2019,Peru,70,3.75,3,1,0,0,0,1,0,bold,nutty,floral
+209,Qantu,Canada,2020,Peru,70,3.5,3,1,0,0,0,1,0,intense plum,harsh woody,none
+210,Sirene,Canada,2015,Madagascar,100,3,1,0,0,0,0,0,0,dry,earthy,surface mark
+211,Sirene,Canada,2015,Ecuador,100,3,1,0,0,0,0,0,0,cocoa,roasty,sticky
+212,Sirene,Canada,2016,Ecuador,73,3.75,2,0,0,0,0,1,0,fruity,blueberry,none
+213,Sirene,Canada,2017,Peru,73,3.75,2,0,0,0,0,1,0,grapes,tangy,cocoa
+214,Sirene,Canada,2014,Madagascar,67,3.75,3,1,0,0,0,1,0,tart,sweet edge,none
+215,Sirene,Canada,2014,Madagascar,73,3.75,3,1,0,0,0,1,0,intense fruity,mild sour,none
+216,Sirene,Canada,2014,Ecuador,73,3.75,3,1,0,0,0,1,0,intense,rich,burnt
+217,"Smooth Chocolator, The",Australia,2015,Ecuador,72,4,3,1,0,0,0,1,0,creamy,pistachio,floral
+218,"Smooth Chocolator, The",Australia,2015,Venezuela,70,3.75,3,1,0,0,0,1,0,mild cacao and fruit notes,none,none
+219,"Smooth Chocolator, The",Australia,2015,Madagascar,70,3.5,3,1,0,0,0,1,0,few grits,bold,dark berry
+220,"Smooth Chocolator, The",Australia,2015,Madagascar,65,3.25,3,1,0,0,0,1,0,few grits,sweet,orange
+221,"Smooth Chocolator, The",Australia,2015,Peru,67,3,3,1,0,0,0,1,0,light brown,grits,floral
+222,"Smooth Chocolator, The",Australia,2016,Ecuador,70,4,3,1,0,0,0,1,0,ligt color,creamy,peanut
+223,"Smooth Chocolator, The",Australia,2016,Venezuela,70,3.75,3,1,0,0,0,1,0,creamy,fruit,cocoa
+224,"Smooth Chocolator, The",Australia,2017,Dominican republic,70,3.5,3,1,0,0,0,1,0,cherry,rich choco,none
+225,Soma,Canada,2014,Peru,70,3.75,3,1,0,0,0,1,0,creamy,sour orange,none
+226,Soma,Canada,2014,Ecuador,80,3.5,3,1,0,0,0,1,0,robust,nutty,brownie
+227,Soma,Canada,2014,Blend,70,3.25,3,1,0,0,0,1,0,tart,mild sour,none
+228,Soma,Canada,2015,Venezuela,75,4,3,1,0,0,0,1,0,balanced,nuts,strawberry
+229,Soma,Canada,2015,Venezuela,70,3.5,3,1,0,0,0,1,0,roasted nuts,dried fruit,none
+230,Soma,Canada,2016,Blend,75,3.75,3,1,0,0,0,1,0,banana,nutty,none
+231,Soma,Canada,2016,Dominican republic,62,3.5,3,1,0,0,0,1,0,creamy,sweet,deep choco
+232,Soma,Canada,2016,Madagascar,70,3.5,3,1,0,0,0,1,0,robust dark tropical fruit,none,none
+233,Soma,Canada,2016,Ecuador,70,3.25,3,1,0,0,0,1,0,nutty,banana,harsh ending
+234,Soma,Canada,2018,Madagascar,70,4,3,1,0,0,0,1,0,creamy,acidic,balanced
+235,Soma,Canada,2018,Venezuela,70,4,3,1,0,0,0,1,0,nutty,cocoa,none
+236,Soul,Canada,2017,Madagascar,70,3.5,2,0,0,0,0,1,0,tangy,sour,intense
+237,Soul,Canada,2017,Venezuela,75,3.5,2,0,0,0,0,1,0,intense,simple,floral
+238,Soul,Canada,2017,Dominican republic,70,3.25,2,0,0,0,0,1,0,sticky,sandy,pungent
+239,Soul,Canada,2017,Ecuador,75,3.25,2,0,0,0,0,1,0,sweet,roasty,spicy
+240,Szanto Tibor,Hungary,2014,Venezuela,70,3.5,3,1,0,0,0,1,0,sandy,earthy,spice
+241,Szanto Tibor,Hungary,2015,Ecuador,70,3.75,3,1,0,0,0,1,0,coarse,spicy cinnamon,none
+242,Szanto Tibor,Hungary,2015,Ecuador,70,3.25,3,1,0,0,0,1,0,sweet,brownie,sour
+243,Szanto Tibor,Hungary,2015,Madagascar,70,3.25,3,1,0,0,0,1,0,sour orange,fatty,none
+244,Taste Artisan,U.S.A,2019,Peru,75,4,3,1,0,0,0,1,0,fig,none,none
+245,Taste Artisan,U.S.A,2019,Peru,75,3.25,3,1,0,0,0,1,0,blackberry,dirt,high roast
+246,Taste Artisan,U.S.A,2019,Venezuela,75,3,4,1,1,0,0,1,0,vanilla,fatty,none
+247,Terroir,U.S.A,2014,Madagascar,67,3.75,2,0,0,0,0,1,0,sticky,mild fruit,brownie
+248,Terroir,U.S.A,2014,Ecuador,77,3.25,2,0,0,0,0,1,0,dry,floral,earthy
+249,Terroir,U.S.A,2015,Madagascar,70,3.75,2,0,0,0,0,1,0,unrefined,sweet,mild coffee
+250,Terroir,U.S.A,2015,Ecuador,70,3.25,2,0,0,0,0,1,0,gritty,intense coffee,metallic
+251,Terroir,U.S.A,2015,Peru,70,2.75,2,0,0,0,0,1,0,intense,rich,dark berry
+252,Terroir,U.S.A,2015,Dominican republic,70,3.5,3,1,0,0,0,1,0,spicy,black pepper,bold
+253,Tribar,Peru,2018,Peru,70,3.5,3,1,0,0,0,1,0,sweet,pungent grape,acidic
+254,Tribar,Peru,2018,Peru,73,3,3,1,0,0,0,1,0,powdery,complex,rubber
+255,Zak's,U.S.A,2015,Dominican republic,70,3.25,3,1,0,0,0,1,0,nutty,earthy,hammy
+256,Zak's,U.S.A,2015,Madagascar,70,3.25,3,1,0,0,0,1,0,sandy,mild sour,mild fruit
+257,Zak's,U.S.A,2015,Peru,70,3.25,3,1,0,0,0,1,0,sandy,nutty,mocha
+258,Zak's,U.S.A,2015,Blend,60,3,3,1,0,0,0,1,0,very sweet,heavy roast,nuts
